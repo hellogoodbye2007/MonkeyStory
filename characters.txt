@@ -1,1 +1,2 @@
-first line added
+first line added in characters
+second line added in characters
